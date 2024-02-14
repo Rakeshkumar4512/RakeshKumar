@@ -547,7 +547,8 @@ body{
 
    #about .container1 .row{
     
-    display: block;
+    display: flex;
+       flex-direction: column;
     text-align: center;   
     
     }
